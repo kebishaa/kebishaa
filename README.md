@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gjtsebelu" target="blank"><img src="https://img.shields.io/twitter/follow/gjtsebelu?logo=twitter&style=for-the-badge" alt="gjtsebelu" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data Technologies**
+- 🔭 I’m currently working on **Big Data Technologies**
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kebishaa&show_icons=true&locale=en" alt="kebishaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kebishaa&" alt="kebishaa" /></p>
-
